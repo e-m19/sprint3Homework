@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "08CC4994-4819-4622-BB97-F29D66AA6F36"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "60ABB305-EF54-477C-8543-3B640C3A82D8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sprint3/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "32FBF127-7731-479E-A9DD-6975A8B09ADA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sprint3/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "32FBF127-7731-479E-A9DD-6975A8B09ADA - 89f8e8bebd7797d5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sprint3.ViewController.counter.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Sprint3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elenamikhaylova/Desktop/%D0%B0%D0%B8%CC%86%D0%BE%D1%81/Sprint3/Sprint3/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "32FBF127-7731-479E-A9DD-6975A8B09ADA - a1109968559aab21"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sprint3.ViewController.counter.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Sprint3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elenamikhaylova/Desktop/%D0%B0%D0%B8%CC%86%D0%BE%D1%81/Sprint3/Sprint3/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "32FBF127-7731-479E-A9DD-6975A8B09ADA - 1d62075646c6b6a8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sprint3.ViewController.counter.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Sprint3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elenamikhaylova/Desktop/%D0%B0%D0%B8%CC%86%D0%BE%D1%81/Sprint3/Sprint3/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "32FBF127-7731-479E-A9DD-6975A8B09ADA - 70f08b3bc2dfb1c9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sprint3.ViewController.counter.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Sprint3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elenamikhaylova/Desktop/%D0%B0%D0%B8%CC%86%D0%BE%D1%81/Sprint3/Sprint3/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "32FBF127-7731-479E-A9DD-6975A8B09ADA - b89728808c583a55"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sprint3.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Sprint3.ViewController"
+                  moduleName = "Sprint3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elenamikhaylova/Desktop/%D0%B0%D0%B8%CC%86%D0%BE%D1%81/Sprint3/Sprint3/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "117">
+               </Location>
+               <Location
+                  uuid = "32FBF127-7731-479E-A9DD-6975A8B09ADA - 2f953c04f54bb10f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sprint3.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Sprint3.ViewController&gt;"
+                  moduleName = "Sprint3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elenamikhaylova/Desktop/%D0%B0%D0%B8%CC%86%D0%BE%D1%81/Sprint3/Sprint3/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "74">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
